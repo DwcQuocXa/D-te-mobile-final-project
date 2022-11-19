@@ -1,0 +1,90 @@
+{
+    "project_info": {
+        "project_number": "492714706923",
+        "project_id": "mobile-final-project-10106",
+        "storage_bucket": "mobile-final-project-10106.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:492714706923:android:0e79ebd6295d5d40cdbbae",
+                "android_client_info": {
+                    "package_name": "com.luongkill.mobilefinalproject"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "492714706923-2jtsdur2g2tai8o94vq4157sqoprcnu8.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAtDou5b7vI_QrYxHL2PtTu4dcSUKzL6Gw"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "492714706923-2jtsdur2g2tai8o94vq4157sqoprcnu8.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "492714706923-4rq0vh3ja9rqpmht5so406of5l9pk3v1.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "ios.bundleIdentifier"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:492714706923:android:3ca07a3557b817b0cdbbae",
+                "android_client_info": {
+                    "package_name": "host.expo.exponent"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "492714706923-k5rdiet2lkctgm0bfl2mhro6q1q9jtks.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "host.expo.exponent",
+                        "certificate_hash": "c82c3e5f7871c3d31990194d61a36d6e18c89433"
+                    }
+                },
+                {
+                    "client_id": "492714706923-2jtsdur2g2tai8o94vq4157sqoprcnu8.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAtDou5b7vI_QrYxHL2PtTu4dcSUKzL6Gw"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "492714706923-2jtsdur2g2tai8o94vq4157sqoprcnu8.apps.googleusercontent.com",
+                            "client_type": 3
+                        },
+                        {
+                            "client_id": "492714706923-4rq0vh3ja9rqpmht5so406of5l9pk3v1.apps.googleusercontent.com",
+                            "client_type": 2,
+                            "ios_info": {
+                                "bundle_id": "ios.bundleIdentifier"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
